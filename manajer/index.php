@@ -1,0 +1,1 @@
+<script>window.location='analisis_assosiasi/index.php'</script>
